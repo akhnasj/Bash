@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I am rewriting this file
 
 I am appending this file
@@ -5,3 +6,12 @@ I am appending this file
 I am appending this text through fileOp.sh
 
 I am appending the same through cat command
+=======
+I am rewriting this file
+
+I am appending this file
+
+I am appending this text through fileOp.sh
+
+I am appending the same through cat command
+>>>>>>> a075f6b24b8b791eff1434d8a4665c8c5e43b1e5

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 ls: cannot access '+al': No such file or directory
 
 
 
 
+=======
+ls: cannot access '+al': No such file or directory
+
+
+
+
+>>>>>>> a075f6b24b8b791eff1434d8a4665c8c5e43b1e5

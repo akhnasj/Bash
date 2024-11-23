@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is linux
 this is windows
 this is MAC
@@ -18,3 +19,25 @@ this is windows
 this is MAC
 
 
+=======
+this is linux
+this is windows
+this is MAC
+this is linux
+this is windows
+this is MAC
+this is linux
+this is windows
+this is MAC
+this is linux
+this is windows
+this is MAC
+this is linux
+this is windows
+this is MAC
+this is linux
+this is windows
+this is MAC
+
+
+>>>>>>> a075f6b24b8b791eff1434d8a4665c8c5e43b1e5
